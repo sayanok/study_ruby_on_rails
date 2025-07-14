@@ -7,6 +7,11 @@ gem "rails", "~> 7.1.5", ">= 7.1.5.1"
 gem 'bootstrap-sass', '3.3.7'
 gem "sassc-rails"
 gem 'bcrypt',         '3.1.12'
+gem 'jquery-rails'
+
+gem 'jquery-ui-rails'
+gem 'turbolinks', '~> 5'
+
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
