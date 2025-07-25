@@ -8,6 +8,9 @@ gem 'bootstrap-sass', '3.3.7'
 gem "sassc-rails"
 gem 'bcrypt',         '3.1.12'
 gem 'jquery-rails'
+gem 'faker'
+gem 'will_paginate' 
+gem 'will_paginate-bootstrap-style'
 
 gem 'jquery-ui-rails'
 gem 'turbolinks', '~> 5'
